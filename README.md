@@ -34,4 +34,4 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Live Link
 
-https://tanmayr18.github.io/count/
+https://idyllic-otter-3fa27d.netlify.app
